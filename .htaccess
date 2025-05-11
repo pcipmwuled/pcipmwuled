@@ -1,2 +1,2 @@
         RewriteEngine On
-        RewriteRule ^(.*)$ https://pcipmwuled.or.id//$1 [L,R=301]
+        RewriteRule ^(.*)$ https://www.pcipmwuled.or.id//$1 [L,R=301]
